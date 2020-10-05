@@ -2,6 +2,7 @@
 <html lang=“zh-cn”>
   <head>
     <meta charset=“utf-8”/>
+    <title>Made in 张钦淏手里</title>
     </head>
   <body>
     <h1>分享医学生的沙雕日常</h1>
